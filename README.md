@@ -2,8 +2,8 @@
 
 This repository contains the Figma design files for the SLT-Mobitel App clone. The purpose of this project is to replicate the SLT-Mobitel app's interface for learning and demonstration purposes.
 
-![SLT-Mobitel App Clone]SLT-Mobitel-App-Figma-/SLT Mobitel App
-/Readmeimg.png
+![SLT-Mobitel App Clone](SLT-Mobitel-App-Figma-/SLT Mobitel App/PNG
+/Readmeimg.png)
 
 
 ## Table of Contents
